@@ -1,0 +1,1 @@
+[{"lua":[{"autorun/client":"danielga/gmod_lanes/master/lanes.lua"}],"repo":"/danielga/gmod_lanes","version":"1","dllname":"gmod_lanes","image":"","dll_url":{"win32":"danielga/gmod_lanes/releases/download/downloadables/gmcl_lanes.core_win32.dll"},"desc":"Modules for Garry's Mod that add threads through Lua Lanes.","name":"Lanes","author":"danielga"}]
