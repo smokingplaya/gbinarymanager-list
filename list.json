@@ -1,1 +1,34 @@
-[{"lua":[{"autorun/client":"danielga/gmod_lanes/master/lanes.lua"}],"repo":"/danielga/gmod_lanes","version":"1","dllname":"gmod_lanes","image":"https://mobimg.b-cdn.net/v3/fetch/5c/5c667b51332990f7af3d3b20b4548883.jpeg?w=1470&r=0.5625","dll_url":{"win32":"danielga/gmod_lanes/releases/download/downloadables/gmcl_lanes.core_win32.dll"},"desc":"Modules for Garry's Mod that add threads through Lua Lanes.","name":"Lanes","author":"danielga"}]
+[
+	{
+		"desc": "Modules for Garry's Mod that add threads through Lua Lanes.",
+		"repo": "danielga/gmod_lanes",
+		"version": "1",
+		"image": "https://mobimg.b-cdn.net/v3/fetch/5c/5c667b51332990f7af3d3b20b4548883.jpeg?w=1470&r=0.5625",
+		"lua": [
+			{
+				"autorun/client": "danielga/gmod_lanes/master/lanes.lua"
+			}
+		],
+		"dll_url": {
+			"win32": "danielga/gmod_lanes/releases/download/downloadables/gmcl_lanes.core_win32.dll"
+		},
+		"name": "Lanes",
+		"author": "danielga"
+	},
+	{
+		"desc": "Modules for Garry's Mod that add threads through Lua Lanes.",
+		"repo": "TheFUlDeep/gmod_cpu_info",
+		"version": "0.2",
+		"image": "https://i.pinimg.com/originals/29/ad/06/29ad06fbaa3f80f154d4d3044486d12a.jpg",
+		"lua": [
+			{
+				"autorun/client": "danielga/gmod_lanes/master/lanes.lua"
+			}
+		],
+		"dll_url": {
+			"win32": "TheFUlDeep/gmod_cpu_info/releases/download/v0.2/gmcl_cpu_info_win32.dll"
+		},
+		"name": "CPU Info",
+		"author": "TheFUlDeep"
+	}
+]
